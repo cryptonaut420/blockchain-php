@@ -1,8 +1,8 @@
 {
-    "name": "Blockchain/Blockchain",
+    "name": "cryptonaut420/blockchain-php",
     "description": "Blockchain API client library",
     "keywords": ["bitcoin", "blockchain"],
-    "homepage": "https://github.com/blockchain/api-v1-client-php",
+    "homepage": "https://github.com/cryptonaut420/blockchain-php",
     "license": "MIT",
     "autoload": {
         "psr-4": {
